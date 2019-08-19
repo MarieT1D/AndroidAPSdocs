@@ -89,7 +89,7 @@ You can find a Sample Setup here: `Sample Setup: Samsung S7, Dana-R, Dexcom G5 a
    :maxdepth: 1
    :glob:
    
-   `Sample Setup <../Getting-Started/Sample-Setup.md>
+   Sample Setup <../Getting-Started/Sample-Setup.md>
   
 
 It sometimes takes a while until all module are together. But no worries, there are a lot of things you can do while waiting. It is NECESSARY to check and where approporiate adapt basal rates (BR), insulin-carbration (IC), insulin-sensitivity-factores (ISF), etc. And if already possible, open loop is a good way to test the system.
