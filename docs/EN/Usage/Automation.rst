@@ -32,7 +32,7 @@ You can choose between several conditions. Here are some things explained, but m
 * location: in the config builder (Automation), you can select which location service you want to use:
 
   * Use passive location: AAPS only takes locations if other apps are requesting it
-  * Use network location: Location of your Wifi
+  * Use network location: The location of your mobile phone can be determined by using the service provider's network infrastructure
   * Use GPS location
   
 Action
